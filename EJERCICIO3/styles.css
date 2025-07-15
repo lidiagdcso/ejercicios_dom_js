@@ -1,0 +1,9 @@
+.individualButton {
+  display: block;
+  border: 1px solid black;
+  border-radius: 15px;
+  background-color: lawngreen;
+  color: black;
+  font-size: 16px;
+  padding: 10px;
+}
